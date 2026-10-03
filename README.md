@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of hucoding/hucoding-rtl.** Not for installation: use [Packagist](https://packagist.org/packages/hucoding/hucoding-rtl) or the [upstream repository](https://github.com/Hucoding-yc/hucoding-rtl).
 
-**0** versions archived · Latest: [`v1`](https://github.com/flarchive/hucoding-hucoding-rtl/tree/archive/v1) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**1** versions archived · Latest: [`v1`](https://github.com/flarchive/hucoding-hucoding-rtl/tree/archive/v1) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1` | 2021-04-05 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/hucoding-hucoding-rtl/tree/archive/v1) |
 
 Catalog entry: [packages/hucoding-hucoding-rtl.json](https://github.com/flarchive/archive-index/blob/main/packages/hucoding-hucoding-rtl.json)
 
